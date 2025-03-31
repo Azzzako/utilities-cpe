@@ -1,0 +1,11 @@
+# Ignorar archivos de entorno
+.env
+node_modules/
+
+# Ignorar archivos de IDE
+.vscode/
+.idea/
+
+# Ignorar logs y temporales
+*.log
+*.tmp
