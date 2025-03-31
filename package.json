@@ -1,6 +1,6 @@
 {
   "name": "utilities-cpe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Libreria de utilidades para CPE",
   "main": "index.js",
   "scripts": {
