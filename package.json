@@ -9,13 +9,5 @@
   "keywords": [],
   "author": "Asael Hernandez",
   "license": "ISC",
-  "type": "commonjs",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Azzzako/utilities-cpe"
-  },
-  "bugs": {
-    "url": "https://github.com/Azzzako/utilities-cpe/issues"
-  },
-  "homepage": "https://github.com/Azzzako/utilities-cpe/readme"
+  "type": "commonjs"
 }
